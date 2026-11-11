@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Profile README for https://github.com/yoletPig -->
 
-<!--
-**yoletPig/yoletPig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoletPig&theme=github_dark" alt="GitHub contribution overview" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+### Hi there, I'm Yoleen :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mortar_board: CS master's graduate interested in speech technology, multimodal AI, autonomous driving perception, and inference optimization.
+- :computer: Building and exploring practical AI systems.
+- :pencil2: Blog: [yoletpig.github.io](https://yoletpig.github.io/)
+
+### Featured projects
+
+| Project | Description |
+| --- | --- |
+| [dsh-plugin-rapidspeech](https://github.com/yoletPig/dsh-plugin-rapidspeech) | Offline speech-to-text plugin for DeepSeek Harness, powered by RapidSpeech.cpp. |
+| [mamba-yolov8](https://github.com/yoletPig/mamba-yolov8) | Official implementation of YOLO-MPE for object detection. |
